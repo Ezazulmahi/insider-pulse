@@ -1,17 +1,19 @@
 {
   "expo": {
-    "name": "insider-pulse",
+    "name": "Insider Pulse",
     "slug": "insider-pulse",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0B1220",
     "ios": {
       "supportsTablet": true
     },
     "android": {
+      "package": "com.ezazulmahi.insiderpulse",
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
+        "backgroundColor": "#0B1220",
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
