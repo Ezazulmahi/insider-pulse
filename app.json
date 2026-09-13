@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6f62d305-e14c-4b20-8894-d0b3452263f2"
+      }
+    },
+    "owner": "ezazulmahi"
   }
 }
